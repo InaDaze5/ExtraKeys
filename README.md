@@ -8,3 +8,5 @@
 [●] python run.py
 
 Pemula Jangan Di Hina !
+
+Script Ini Versi 1.1
